@@ -1,6 +1,6 @@
 # Hi, I'm Guilherme
 
-💻 Backend Developer in progress
+🚀 Backend Developer in progress
 
 Currently focused on the Java ecosystem, with an emphasis on developing REST APIs using Spring Boot, following RESTful principles and backend development best practices.
 
@@ -18,7 +18,7 @@ Continuously improving knowledge in algorithms and data structures, applying con
 * MySQL
 * Git & GitHub
 
-## 💻 Skills
+## 🔥 Skills
 
 * REST API development
 * CRUD operations
