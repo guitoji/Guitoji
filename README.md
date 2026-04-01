@@ -15,7 +15,7 @@ Continuously improving knowledge in algorithms and data structures, applying con
 * Java
 * Spring Boot
 * JPA / Hibernate
-* MySQL
+* DB's relational and non-relational
 * Git & GitHub
 
 ## 🔥 Skills
