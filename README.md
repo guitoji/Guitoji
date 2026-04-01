@@ -10,6 +10,8 @@ Working with version control using Git (GitHub) and integrating relational datab
 
 Continuously improving knowledge in algorithms and data structures, applying concepts such as binary search, sorting, and complexity analysis (Big-O) to develop efficient solutions.
 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,mysql,mongodb,html,css,javascript)](https://skillicons.dev)
+
 ## 🛠️ Stack
 
 * Java
