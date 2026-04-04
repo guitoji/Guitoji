@@ -2,7 +2,7 @@
 
 🚀 Backend Developer in progress
 
-Currently focused on the Java Language focusing on the Spring ecosystem, building APIs using the REST pattern and Configuration-Oriented Programming (COP). Applying to backend applications using layered architecture (Controller, Service, Repository), Clean Code, SOLID principles, and object-oriented programming (OOP), as well as implementing unit tests with JUnit 5 and Mockito.
+Currently focused on the Java Language, focusing on the Spring ecosystem building APIs using the REST pattern and Configuration-Oriented Programming (COP). Applying to backend applications using layered architecture (Controller, Service, Repository), Clean Code, SOLID principles, and object-oriented programming (OOP), as well as implementing unit tests with JUnit 5 and Mockito.
 
 Working with version control using Git (GitHub) and integrating relational databases (MySQL) through JPA/Hibernate, with familiarity in non-relational databases (NoSQL), performing data persistence, queries, and data manipulation.
 
